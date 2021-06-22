@@ -5,6 +5,7 @@
       private $gender;
       private $height;
       private $weight;
+      private $task;
 
       public function walk() {
           echo 
